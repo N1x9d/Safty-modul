@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Safty modul": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
